@@ -2,6 +2,7 @@
 - 👋 Hi, I’m @LeTrongDuc2510
 - 👀 Currently my major is Computer Science
 - Language : C++
+sjhcjsdnfjhwefhaer
 ## HELLO
 
 <!---
