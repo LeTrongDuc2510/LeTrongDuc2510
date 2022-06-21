@@ -1,7 +1,7 @@
 # DEMO
 - 👋 Hi, I’m @LeTrongDuc2510
-- 👀 Currently my major is Computer Science
-- Language : C++, Python
+- 👀 My major is Computer Science
+- Languages : C++, Python, Dart
 
 ## HELLO
 
