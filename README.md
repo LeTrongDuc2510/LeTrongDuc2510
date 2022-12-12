@@ -10,6 +10,8 @@ Guess where I am
 
 ## Just do it
 ![26 Animated Logos to Inspire Your Own](https://user-images.githubusercontent.com/87889069/206984351-227ac394-01b0-423b-8af9-8d7f26912d45.gif)
+
+## Random cool gif
 ![Shredder](https://user-images.githubusercontent.com/87889069/206985092-28d43452-e2ea-4149-ae69-11a572f58938.gif)
 
 <!---
