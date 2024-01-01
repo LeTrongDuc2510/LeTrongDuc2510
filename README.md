@@ -3,7 +3,7 @@ Je m'appelle Duc Trong Le.
 
 ## Welcome to my page
 Guess where I am
-<div align="center" style="float" >
+<div align="center" style="float:left; width: 50%" >
     <div>
         <img src="https://user-images.githubusercontent.com/87889069/206115563-779ae72e-c50c-4a6d-ba37-6662a32b6a3c.png" width="40%" >
         <br>
