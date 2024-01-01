@@ -3,7 +3,22 @@ Je m'appelle Duc Trong Le.
 
 ## Welcome to my page
 Guess where I am
+| ![Image 1](https://user-images.githubusercontent.com/87889069/206115563-779ae72e-c50c-4a6d-ba37-6662a32b6a3c.png) |
+|:--------------------------:|
+| Description of Image 1      |
 
+| ![Image 2](https://github.com/LeTrongDuc2510/LeTrongDuc2510/assets/87889069/33128795-7f8f-4fef-9b12-8f7ae092d189) |
+|:--------------------------:|
+| Description of Image 2      |
+
+| ![Image 3](https://github.com/LeTrongDuc2510/LeTrongDuc2510/assets/87889069/605f6abe-43e5-4e46-8f64-de541143da1f) |
+|:--------------------------:|
+| Description of Image 3      |
+
+
+
+
+<!---
 <p align="center">
     <div>
         <img src="https://user-images.githubusercontent.com/87889069/206115563-779ae72e-c50c-4a6d-ba37-6662a32b6a3c.png" width="50%" >
@@ -11,7 +26,7 @@ Guess where I am
     </div>
     <img src="https://github.com/LeTrongDuc2510/LeTrongDuc2510/assets/87889069/605f6abe-43e5-4e46-8f64-de541143da1f" width="40%" /> 
 </p>
-
+--->
 
 ## Just do it
 <p align="center">
