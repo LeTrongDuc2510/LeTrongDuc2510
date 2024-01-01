@@ -3,14 +3,14 @@ Je m'appelle Duc Trong Le.
 
 ## Welcome to my page
 Guess where I am
-<p align="center">
+<div align="center" >
     <div>
         <img src="https://user-images.githubusercontent.com/87889069/206115563-779ae72e-c50c-4a6d-ba37-6662a32b6a3c.png" width="40%" >
         <br>
         <img src="https://github.com/LeTrongDuc2510/LeTrongDuc2510/assets/87889069/33128795-7f8f-4fef-9b12-8f7ae092d189" width="40%" >
     </div>
     <img src="https://github.com/LeTrongDuc2510/LeTrongDuc2510/assets/87889069/605f6abe-43e5-4e46-8f64-de541143da1f" width="40%" /> 
-</p>
+</div>
 
 
 
