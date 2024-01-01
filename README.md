@@ -13,14 +13,18 @@ Guess where I am
     </div>
 </div>
 
-    <div style="margin-top: 40px; display: flex; flex-direction: row">
-      <div style="background-color: aquamarine; width: 100px">100px</div>
-      <div style="background-color: coral; flex: 1">
-        flex 2
-        <p>text</p>
-      </div>
-      <div style="background-color: aquamarine; flex: 2">flex 2</div>
-    </div>
+<div style="margin-top: 40px; display: flex; flex-direction: row">
+  <div style="background-color: aquamarine; width: 100px">
+      100px
+  </div>
+  <div style="background-color: coral; flex: 1">
+    flex 2
+    <p>text</p>
+  </div>
+  <div style="background-color: aquamarine; flex: 2">
+      flex 2
+  </div>
+</div>
 
 
 
