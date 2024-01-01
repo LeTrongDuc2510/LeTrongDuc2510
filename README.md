@@ -2,7 +2,7 @@
 Je m'appelle Duc Trong Le.
 
 ## Welcome to my page
-Guess where I am
+```"We do not remember days, we remember moments." - Cesare Pavese```
 <div align="center" style="display: flex; flex-direction: row;" >
     <div >
         <img src="https://github.com/LeTrongDuc2510/LeTrongDuc2510/assets/87889069/605f6abe-43e5-4e46-8f64-de541143da1f" height="330px"> 
