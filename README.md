@@ -1,8 +1,5 @@
 # Bonjour
-- 👋 Ayo, I’m @LeTrongDuc2510
-- 👀 My major is Computer Science
-- I'm currently a somophore at the Ho Chi Minh University of Technology
-- Languages : C++, Python
+Je m'appelle Duc Trong Le.
 
 ## Welcome to my page
 Guess where I am
