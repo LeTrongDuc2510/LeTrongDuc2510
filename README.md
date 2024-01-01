@@ -9,8 +9,8 @@ Guess where I am
         <img src="https://github.com/LeTrongDuc2510/LeTrongDuc2510/assets/87889069/33128795-7f8f-4fef-9b12-8f7ae092d189" height="330px">
     </div>
     <div >
-        <img src="https://user-images.githubusercontent.com/87889069/206115563-779ae72e-c50c-4a6d-ba37-6662a32b6a3c.png" height="260px" >
-        <img src="https://user-images.githubusercontent.com/87889069/206984351-227ac394-01b0-423b-8af9-8d7f26912d45.gif" height="260px" >
+        <img src="https://user-images.githubusercontent.com/87889069/206115563-779ae72e-c50c-4a6d-ba37-6662a32b6a3c.png" height="250px" >
+        <img src="https://user-images.githubusercontent.com/87889069/206984351-227ac394-01b0-423b-8af9-8d7f26912d45.gif" height="250px" >
     </div>
 </div>
 
