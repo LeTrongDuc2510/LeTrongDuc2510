@@ -5,8 +5,8 @@ Je m'appelle Duc Trong Le.
 Guess where I am
 <div align="center" style="display: flex; flex-direction: row;" >
     <div >
-        <img src="https://github.com/LeTrongDuc2510/LeTrongDuc2510/assets/87889069/605f6abe-43e5-4e46-8f64-de541143da1f" height="350px"> 
-        <img src="https://github.com/LeTrongDuc2510/LeTrongDuc2510/assets/87889069/33128795-7f8f-4fef-9b12-8f7ae092d189" height="350px">
+        <img src="https://github.com/LeTrongDuc2510/LeTrongDuc2510/assets/87889069/605f6abe-43e5-4e46-8f64-de541143da1f" height="330px"> 
+        <img src="https://github.com/LeTrongDuc2510/LeTrongDuc2510/assets/87889069/33128795-7f8f-4fef-9b12-8f7ae092d189" height="330px">
     </div>
     <div >
         <img src="https://user-images.githubusercontent.com/87889069/206115563-779ae72e-c50c-4a6d-ba37-6662a32b6a3c.png" height="600px" >
