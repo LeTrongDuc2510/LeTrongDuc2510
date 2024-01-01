@@ -3,7 +3,7 @@ Je m'appelle Duc Trong Le.
 
 ## Welcome to my page
 Guess where I am
-<div align="center" style="display: flex; flex-direction: row" >
+<div align="center" style="display: flex; flex-direction: column" >
     <div >
         <img src="https://user-images.githubusercontent.com/87889069/206115563-779ae72e-c50c-4a6d-ba37-6662a32b6a3c.png" width="40%" >
         <img src="https://github.com/LeTrongDuc2510/LeTrongDuc2510/assets/87889069/33128795-7f8f-4fef-9b12-8f7ae092d189" width="40%" >
@@ -13,18 +13,7 @@ Guess where I am
     </div>
 </div>
 
-<div style="margin-top: 40px; display: flex; flex-direction: row">
-  <div style="background-color: aquamarine; width: 100px">
-      100px
-  </div>
-  <div style="background-color: coral; flex: 1">
-    flex 2
-    <p>text</p>
-  </div>
-  <div style="background-color: aquamarine; flex: 2">
-      flex 2
-  </div>
-</div>
+
 
 
 
