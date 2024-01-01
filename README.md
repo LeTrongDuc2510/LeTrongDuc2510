@@ -9,7 +9,7 @@ Guess where I am
         <img src="https://github.com/LeTrongDuc2510/LeTrongDuc2510/assets/87889069/33128795-7f8f-4fef-9b12-8f7ae092d189" height="330px">
     </div>
     <div >
-        <img src="https://user-images.githubusercontent.com/87889069/206115563-779ae72e-c50c-4a6d-ba37-6662a32b6a3c.png" height="580px" >
+        <img src="https://user-images.githubusercontent.com/87889069/206115563-779ae72e-c50c-4a6d-ba37-6662a32b6a3c.png" height="540px" >
     </div>
 </div>
 
