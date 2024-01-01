@@ -11,8 +11,15 @@ Guess where I am
     <div >
         <img src="https://github.com/LeTrongDuc2510/LeTrongDuc2510/assets/87889069/605f6abe-43e5-4e46-8f64-de541143da1f" width="40%" /> 
     </div>
-    
 </div>
+
+<div style="display: flex; flex-direction: row">
+      <div style="background-color: aquamarine">div 1</div>
+      <div style="background-color: coral">
+        div 2
+        <p>text</p>
+      </div>
+    </div>
 
 
 
